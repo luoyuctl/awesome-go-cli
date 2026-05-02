@@ -12,6 +12,7 @@ A curated list of awesome Go tools, resources for writing quality CLIs and OSS p
 **[⬆ back to top](#contents)**
 
 ## OSS CLIs
+- [agenttrace - Local-first TUI for AI coding-agent session logs: cost, tokens, latency, tool failures, reports, and CI gates](https://github.com/luoyuctl/agenttrace)
 - [bombardier - Fast cross-platform HTTP benchmarking tool written in Go](https://github.com/codesenberg/bombardier)
 - [cli - Ferret CLI](https://github.com/MontFerret/cli)
 - [cli - GitHub’s official command line tool](https://github.com/cli/cli)
